@@ -1,0 +1,25 @@
+.cont{
+	font-family: 'Dancing Script', cursive;
+	text-shadow: 2px 2px white;
+	font-size: 100px;
+	color: pink;
+}
+
+.name{
+	font-family: 'Lobster', cursive;
+	text-shadow: 1px 1px white;
+	font-size: 33px;
+	color: pink;
+}
+
+.icon img{
+	padding: 15px; 
+	height: auto;
+	width: 200px;
+}
+
+.fb img{
+	padding: 20px;
+	height: auto;
+	width: 44px;
+}
